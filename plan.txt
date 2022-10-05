@@ -1,0 +1,3 @@
+I plan to first move a 0 radius ball. The ball needs to have both a horizontal movement and a vertical movement.
+When the ball bounces off a wall/paddle, one of the movement needs to change sign.
+I also need to figure out how to determine when the ball made contact with the wall/paddle.
